@@ -64,8 +64,8 @@ document.querySelector('#finalizar_pedido').addEventListener('click', function(e
 
             if (emptyFields.length === 0 && telefoneValue.length === 15) {
                 
-                const url = 'https://8027.bubblewhats.com/send-message';
-                const token = 'NjIxMzkwZDMwNjJjNGQwOWM4NTYyZjVh';
+                const url = '';
+                const token = '';
                 
                 function enviarMensagem(dados) {
                   const number = dados.tel;
