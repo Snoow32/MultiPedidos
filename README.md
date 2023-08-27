@@ -6,21 +6,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/snoow32">
-    <img src="uploads/readme.png" alt="Logo" width="80" height="80">
+    <img src="prints/readme.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Projeto Web - MultiPedidos</h3>
-
-  <p align="center">
-    Leia a documentacao para mais detalhes
-    <br />
-    <a href="doc.md"><strong>Documentação»</strong></a>
-    <br />
-    <br />
-    <a href="Prints/">Ver demonstração</a>
-    ·
-    <a href="Projeto.md">Lista de atualizações</a>
-  </p>
 </div>
 
 
@@ -42,29 +31,33 @@ Projeto feito para cardapios onlines para restaurantes, lanchonetes e afins, pro
 
 ## Como funciona
 
-Leia a documentação para rodar o projeto sem erros
-
-[![docs](https://img.shields.io/badge/DOCS-8A2BE2)](https://github.com/snoow32/doc.md)
+Codigo fonte ainda em desenvolvimento, entre em contato para mais informações
 
 ## Projeto em imagens
 
-Pagina inicial
-<img src="Prints/PaginaInicial.png">
+=> Pagina inicial
 
-Pagina de login/register
-<img src="Prints/LoginRegistro.png">
+<img src="Prints/Foto1.png">
 
-Perfil usuario
+=> Pagina de login/register
+
+<img src="Prints/Cadastro.png">
+
+=> Perfil usuario
+
 <img src="Prints/Perfil.png">
 
-### Se sentiu interessado? baixe o projeto e veja-o por completo.
+=> Produtos
 
-## Contribuindo
+<img src="Prints/Produtos.png">
 
-As contribuições são o que torna a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer são **muito apreciadas**.
+=> Finalizando
 
-Se você tiver uma sugestão para melhorar isso, de um fork ao repositório e crie uma solicitação pull. Você também pode simplesmente abrir um problema com a tag "melhoria".
-Não se esqueça de dar uma estrela ao projeto! Obrigado novamente!
+<img src="Prints/Finalizando.png">
+
+=> Dashboard
+
+<img src="Prints/Dashboard.png">
 
 ## License
 
@@ -73,9 +66,3 @@ Não se esqueça de dar uma estrela ao projeto! Obrigado novamente!
 ## Contato
 
 Caso tenha alguma duvida, não exite em perguntar.
-
-## Gostou do projeto, me ajude doando
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://bmc.link/Snoow)
-
-<p align="right">(<a href="#readme-top">Volte ao inicio</a>)</p>
