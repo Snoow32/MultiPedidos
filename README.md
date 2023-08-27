@@ -5,7 +5,7 @@
 
 <br />
 <div align="center">
-  <img src="prints/readme.png" alt="Logo" width="80" height="80">
+  <img src="Prints/readme.png" alt="Logo" width="80" height="80">
   <h3 align="center">Projeto Web - MultiPedidos</h3>
 </div>
 
